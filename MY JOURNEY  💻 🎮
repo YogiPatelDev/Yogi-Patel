@@ -1,0 +1,21 @@
+{
+  "name": "Yogi",
+  "age": 16,
+  "nationality": "Indian",
+  "religion": "Hindu",
+  "education": {
+    "level": "College Student",
+    "field": "Cybersecurity"
+  },
+  "aboutMe": "Hey there! I'm a 16-year-old with a passion for tech. I'm determined to turn setbacks into a springboard for my future. I'm constantly learning new things, from coding to cybersecurity, and I'm excited to see where my journey takes me. I believe that with hard work and dedication, anything is possible.",
+  "goals": [
+    "To build a successful career in cybersecurity",
+    "To keep learning and improving my skills",
+    "To inspire others with my journey in tech"
+  ],
+  "hobbies": [
+    "Coding",
+    "Exploring new technologies",
+    "Learning about cybersecurity"
+  ]
+}
